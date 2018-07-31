@@ -1,0 +1,1 @@
+# xlsx-populate-typings
